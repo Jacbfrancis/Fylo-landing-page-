@@ -42,7 +42,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live Site](https://jacbfrancis.github.io/Fylo-landing-page-/)
 
 ## My process
 
@@ -62,7 +62,7 @@ I improved my knowledge on media quries and css flexbox.
 
 ### Continued development
 
-- imorove my knowledge wven further on css flexbox aMedia queries.
+- imorove my knowledge even further on css flexbox and Media queries.
 
 - learn css Grid.
 
