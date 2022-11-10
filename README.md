@@ -28,12 +28,12 @@ Users should be able to:
 ### Screenshot
 
 - ##### Desktop Layout
-![](screenshot_1.png)
+![](screenshot-1.png)
 
 
 
   - ##### Mobile layout 
-![](screenshot_2.png)
+![](screenshot-2.png)
 
 
 
@@ -62,7 +62,7 @@ I improved my knowledge on media quries and css flexbox.
 
 ### Continued development
 
-- imorove my knowledge wven further on css flexbox aMedia queries 
+- imorove my knowledge wven further on css flexbox aMedia queries.
 
 - learn css Grid.
 
@@ -70,7 +70,7 @@ I improved my knowledge on media quries and css flexbox.
 ### Useful resources
 
 - [Google fonts](https://fonts.google.com/) - This helped me to implement fonts on the website, so no trouble with font embedding.
-- 
+
 - [Flat Icon](https://www.flaticon.com) - This helped with nice icons/images. I really liked this Website and plan to use it going forward.
 
 
