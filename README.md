@@ -64,7 +64,7 @@ I improved my knowledge on media quries and css flexbox.
 
 - imorove my knowledge even further on css flexbox and Media queries.
 
-- learn css Grid.
+- learn CSS Grid.
 
 
 ### Useful resources
