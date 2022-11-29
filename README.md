@@ -62,9 +62,7 @@ I improved my knowledge on media quries and css flexbox.
 
 ### Continued development
 
-- imorove my knowledge even further on css flexbox and Media queries.
-
-- learn CSS Grid.
+- learn Tailwind CSS.
 
 
 ### Useful resources
