@@ -39,7 +39,7 @@ Users should be able to:
 
 ### Continued development
 
-- learn Tailwind CSS.
+- Build complex webpages usinf media queries and css flexbox. 
 
 
 ### Useful resources
