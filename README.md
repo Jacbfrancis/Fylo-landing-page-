@@ -39,7 +39,7 @@ Users should be able to:
 
 ### Continued development
 
-- Build complex webpages usinf media queries and css flexbox. 
+- Build complex webpages using media queries and css flexbox. 
 
 
 ### Useful resources
