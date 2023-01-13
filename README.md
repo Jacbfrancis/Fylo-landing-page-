@@ -6,11 +6,9 @@ This is a solution to the [Fylo landing page with two column layout challenge on
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
@@ -25,19 +23,6 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
 
-### Screenshot
-
-- ##### Desktop Layout
-![](screenshot-1.png)
-
-
-
-  - ##### Mobile layout 
-![](screenshot-2.png)
-
-
-
-
 
 
 ### Links
@@ -50,31 +35,22 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- Desktop-first workflow
-- Media Queries
 
-
-
-### What I learned
-
-I improved my knowledge on media quries and css flexbox.
 
 ### Continued development
 
-- learn and build projects with Tailwind CSS.
+- learn Tailwind CSS.
 
 
 ### Useful resources
 
-- [Google fonts](https://fonts.google.com/) - This helped me to implement fonts on the website, so no trouble with font embedding.
+- [Google fonts](https://fonts.google.com/) - This helped me to implement fonts on the website.
 
-- [Flat Icon](https://www.flaticon.com) - This helped with nice icons/images. I really liked this Website and plan to use it going forward.
+- [Flat Icon](https://www.flaticon.com) - This helped with nice icons/images.
 
 
 
 ## Author
 
-- Website - [ Francis Jacob](https://github.com/Jacbfrancis)
 - Twitter - [@jacobxavier_](https://twitter.com/jacobxavier_)
 
