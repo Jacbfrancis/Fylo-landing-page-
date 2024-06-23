@@ -29,7 +29,7 @@ Users should be able to:
 
   - ##### Desktop Layout
 
-![](screenshot_1.png)
+![](Screenshot_1.png)
 
 
 ### Links
